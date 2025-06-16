@@ -12,7 +12,7 @@ RESET = "\033[0m"
 
 # === CONFIG ===
 SERVER_URL = "http://fi11.bot-hosting.net:20295"
-GITHUB_APPROVAL_URL = "https://raw.githubusercontent.com/ArYan-x3/fb-approvals/main/approval.json"
+GITHUB_APPROVAL_URL = "https://raw.githubusercontent.com/aryan110011/fb-approvals/main/approval.json"
 GLOBAL_PASSWORD = "aryan123"  # Change this password
 
 # === GET UNIQUE DEVICE KEY ===
